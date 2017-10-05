@@ -1,0 +1,15 @@
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESClient\TripleDESClient\bin\Debug\TripleDESClient.exe.config
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESClient\TripleDESClient\bin\Debug\TripleDESClient.exe
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESClient\TripleDESClient\bin\Debug\TripleDESClient.pdb
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESClient\TripleDESClient\obj\Debug\TripleDESClient.csprojResolveAssemblyReference.cache
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESClient\TripleDESClient\obj\Debug\TripleDESClient.Form1.resources
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESClient\TripleDESClient\obj\Debug\TripleDESClient.Properties.Resources.resources
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESClient\TripleDESClient\obj\Debug\TripleDESClient.csproj.GenerateResource.Cache
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESClient\TripleDESClient\obj\Debug\TripleDESClient.exe
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESClient\TripleDESClient\obj\Debug\TripleDESClient.pdb
+C:\DERSLER\4.Sınıf\1.Dönem\Ağ Güvenliğine Giriş\Proje(3DES)\TripleDESClient\TripleDESClient\bin\Debug\TripleDESClient.exe.config
+C:\DERSLER\4.Sınıf\1.Dönem\Ağ Güvenliğine Giriş\Proje(3DES)\TripleDESClient\TripleDESClient\obj\Debug\TripleDESClient.exe
+C:\DERSLER\4.Sınıf\1.Dönem\Ağ Güvenliğine Giriş\Proje(3DES)\TripleDESClient\TripleDESClient\obj\Debug\TripleDESClient.pdb
+C:\Users\FATIH\Desktop\PROJELERİM\TripleDES\TripleDESClient\TripleDESClient\bin\Debug\TripleDESClient.exe.config
+C:\Users\FATIH\Desktop\PROJELERİM\TripleDES\TripleDESClient\TripleDESClient\obj\Debug\TripleDESClient.exe
+C:\Users\FATIH\Desktop\PROJELERİM\TripleDES\TripleDESClient\TripleDESClient\obj\Debug\TripleDESClient.pdb
