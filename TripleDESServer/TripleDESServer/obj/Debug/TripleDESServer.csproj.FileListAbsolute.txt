@@ -1,0 +1,12 @@
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESServer\TripleDESServer\bin\Debug\TripleDESServer.exe.config
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESServer\TripleDESServer\bin\Debug\TripleDESServer.exe
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESServer\TripleDESServer\bin\Debug\TripleDESServer.pdb
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESServer\TripleDESServer\obj\Debug\TripleDESServer.csprojResolveAssemblyReference.cache
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESServer\TripleDESServer\obj\Debug\TripleDESServer.Form1.resources
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESServer\TripleDESServer\obj\Debug\TripleDESServer.Properties.Resources.resources
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESServer\TripleDESServer\obj\Debug\TripleDESServer.csproj.GenerateResource.Cache
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESServer\TripleDESServer\obj\Debug\TripleDESServer.exe
+C:\Users\FATIH\Documents\Visual Studio 2015\TripleDESServer\TripleDESServer\obj\Debug\TripleDESServer.pdb
+C:\Users\FATIH\Desktop\PROJELERİM\TripleDES\TripleDESServer\TripleDESServer\bin\Debug\TripleDESServer.exe.config
+C:\Users\FATIH\Desktop\PROJELERİM\TripleDES\TripleDESServer\TripleDESServer\obj\Debug\TripleDESServer.exe
+C:\Users\FATIH\Desktop\PROJELERİM\TripleDES\TripleDESServer\TripleDESServer\obj\Debug\TripleDESServer.pdb
